@@ -1,0 +1,15 @@
+.Merry-Go-Container {
+  background: limegreen;
+  padding: 2rem;
+  width: 100%;
+  height: fit-content;
+}
+
+.overlayText {
+  font-size: 3rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.sceneContainer {
+}
