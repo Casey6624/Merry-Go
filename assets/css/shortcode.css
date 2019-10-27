@@ -5,11 +5,29 @@
   height: fit-content;
 }
 
+.sceneContainer {
+  height: 50vh;
+}
+
 .overlayText {
   font-size: 3rem;
   text-align: center;
   padding: 1rem;
+  color: red;
 }
 
-.sceneContainer {
+.controlsContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.controls {
+  color: red;
+  background: blue;
+  font-weight: bold;
+}
+
+.controls:hover {
+  cursor: pointer;
 }
